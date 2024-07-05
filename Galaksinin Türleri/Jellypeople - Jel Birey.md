@@ -1,0 +1,3 @@
+Jel Bireyler, balçıksı bir yapıdan oluşup bölünerek kendilerini klonlayabilen ilginç bir türdür. Bu türün oluşumunun kaynağı tam olarak bilinmesede, Nanotrasenin araştırma yaptığı ksenobiyoloji bölümünde oluştukları bilinmektedir. Bir kaza sonucu mu yoksa kasıtlı olarak mı üretildikleri halen daha bir sır. Jel Bireylerin diğer türlerin aksine toksin soluyarak iyileştikleri deneyler sonucu gözlemlenmiştir. Aşağıda gördüğünüz fotoğraf laboratuvar ortamında oluşan bir jel bireyin görselidir;
+
+![image](https://github.com/Oynumt1/Psychonaut-Lore/assets/172940702/2951bf7d-a8b3-4413-ac47-8a172eea4f7c)
